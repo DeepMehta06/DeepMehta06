@@ -48,7 +48,7 @@ I am passionate about bridging the gap between **Software Engineering** and **Da
 | **Languages** | <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,sql&theme=dark" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&theme=dark" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,firebase&theme=dark" /> |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=sklearn,pytorch,pandas,anaconda&theme=dark" /> |
+| **AI / ML** | <img src="https://skillicons.dev/icons?i=sklearn,pytorch,anaconda&theme=dark" /> |
 | **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma,vscode&theme=dark" /> |
 
 </div>
