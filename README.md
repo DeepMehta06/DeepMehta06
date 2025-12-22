@@ -81,6 +81,14 @@ I am passionate about bridging the gap between **Software Engineering** and **Da
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepMehta06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
 
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepMehta06&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DeepMehta06&theme=tokyonight" width="100%" />
+
 </div>
 
 ---
