@@ -90,7 +90,7 @@ I am passionate about bridging the gap between **Software Engineering** and **Da
 <div align="center">
 
 <a href="https://leetcode.com/DeepMehta06/">
-  <img src="https://leetcard.jacoblin.cool/DeepM8906?theme=dark&font=source_code_pro&ext=activity" height="150" />
+  <img src="https://leetcard.jacoblin.cool/DeepM8906?theme=dark&font=source_code_pro&ext=activity" height="200" />
 </a>
 
 <br/>
