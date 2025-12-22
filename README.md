@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<h1 align="center">🚀 Hi there, I'm Deep Mehta!</h1>
+<img src="https://user-images.githubusercontent.com/74038190/221352996-5136894d-c198-4660-8480-12826c710d0a.gif" width="600" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=CS+Undergrad+%40+S.P.I.T.+Mumbai;Full+Stack+Developer+%7C+MERN+%26+Next.js;ML+Enthusiast+%7C+Open+Source;Executive+Head+%40+SDC+SPIT;Technical+Head+%40+ENACTUS+SPIT" alt="Typing SVG" />
 </a>
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="Cyberpunk Developer" />
 
 </div>
 
@@ -17,7 +13,7 @@
 ## 🎯 About Me
 
 <div align="center">
-<img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
+  <img align="right" width="300" src="https://content.imageresizer.com/images/memes/Stonks-meme-6.jpg" alt="Computer Science Stonks" />
 </div>
 
 👨‍💻 **I am a Sophomore Computer Science Undergraduate at [Sardar Patel Institute of Technology (S.P.I.T.), Mumbai].**
@@ -62,6 +58,13 @@ I am passionate about bridging the gap between **Software Engineering** and **Da
 | **[🩸 Blood Bank System](https://github.com/DeepMehta06/DBMS_PROJECT.git)** | Production-ready inventory system with **FIFO logic** and automated donor management.<br>🔐 **Demo Credentials:**<br>👮‍♂️ **Admin:** `admin@bloodbank.com` / `admin123`<br>🏥 **Hospital:** `admin@karuna.ac.in` / `karuna` | `MERN` `JWT` `RestAPI` |
 | **[📝 AI-Powered CMS](https://github.com/DeepMehta06/cmsproject.git)** | Full-stack blogging platform built from the ground up. Features secure **NextAuth** authentication, dynamic rich-text editing, and Firebase storage. | `Next.js 15` `Prisma` `MongoDB` |
 | **[🎬 Movie Recommender](https://github.com/DeepMehta06/movie_recommendor.git)** | An intelligent recommendation engine analyzing **4,800+ movies**. Utilizes **Cosine Similarity** and **NLP** (Porter Stemmer) to suggest movies based on plot and cast. | `Python` `Scikit-Learn` `Streamlit` |
+
+<br/>
+
+<div align="center">
+  <h3>🐛 Current Mood: Debugging</h3>
+  <img src="https://i.imgflip.com/1h2k6p.jpg" width="400" alt="My code doesnt work and I dont know why" />
+</div>
 
 <br/>
 
