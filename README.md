@@ -1,9 +1,10 @@
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/221352996-5136894d-c198-4660-8480-12826c710d0a.gif" width="600" />
+<br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=CS+Undergrad+%40+S.P.I.T.+Mumbai;Full+Stack+Developer+%7C+MERN+%26+Next.js;ML+Enthusiast+%7C+Open+Source;Executive+Head+%40+SDC+SPIT;Technical+Head+%40+ENACTUS+SPIT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=CS+Undergrad+%40+S.P.I.T.+Mumbai;Full+Stack+Developer+%7C+MERN+%26+Next.js;ML+Enthusiast+%7C+Open+Source;Executive+Head+%40+SDC+SPIT;Technical+Head+%40+ENACTUS+SPIT" alt="Typing SVG" />
 </a>
 
 </div>
@@ -13,7 +14,7 @@
 ## 🎯 About Me
 
 <div align="center">
-  <img align="right" width="300" src="https://content.imageresizer.com/images/memes/Stonks-meme-6.jpg" alt="Computer Science Stonks" />
+  <img align="right" width="250" src="https://media.tenor.com/tH0-s5Tqj0sAAAAC/computer-science-stonks.gif" alt="CS Stonks" />
 </div>
 
 👨‍💻 **I am a Sophomore Computer Science Undergraduate at [Sardar Patel Institute of Technology (S.P.I.T.), Mumbai].**
@@ -21,7 +22,8 @@
 I am passionate about bridging the gap between **Software Engineering** and **Data Science**. My expertise lies in building production-ready applications using the **MERN Stack** and **Next.js**, while simultaneously exploring Machine Learning algorithms.
 
 * 🔭 **Currently working on:** A robust **Next.js 15 CMS** and scaling **MERN applications**.
-* 🤝 **Leadership:** * **Executive Head** at *Students' Developers Club (SDC), SPIT*
+* 🤝 **Leadership:**
+    * **Executive Head** at *Students' Developers Club (SDC), SPIT*
     * **Technical Head** at *Enactus SPIT*
 * 🏆 **Competitive Programming:**
     * **CodeChef:** 4-Star (Max Rating: 1800+)
@@ -45,7 +47,7 @@ I am passionate about bridging the gap between **Software Engineering** and **Da
 | **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&theme=dark" /> |
 | **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,firebase&theme=dark" /> |
 | **AI / ML** | <img src="https://skillicons.dev/icons?i=sklearn,pytorch,pandas,anaconda&theme=dark" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma,vscode&theme=dark" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma,vscode&theme=dark" /> |
 
 </div>
 
@@ -55,9 +57,9 @@ I am passionate about bridging the gap between **Software Engineering** and **Da
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[🩸 Blood Bank System](https://github.com/DeepMehta06/DBMS_PROJECT.git)** | Production-ready inventory system with **FIFO logic** and automated donor management.<br>🔐 **Demo Credentials:**<br>👮‍♂️ **Admin:** `admin@bloodbank.com` / `admin123`<br>🏥 **Hospital:** `admin@karuna.ac.in` / `karuna` | `MERN` `JWT` `RestAPI` |
-| **[📝 AI-Powered CMS](https://github.com/DeepMehta06/cmsproject.git)** | Full-stack blogging platform built from the ground up. Features secure **NextAuth** authentication, dynamic rich-text editing, and Firebase storage. | `Next.js 15` `Prisma` `MongoDB` |
-| **[🎬 Movie Recommender](https://github.com/DeepMehta06/movie_recommendor.git)** | An intelligent recommendation engine analyzing **4,800+ movies**. Utilizes **Cosine Similarity** and **NLP** (Porter Stemmer) to suggest movies based on plot and cast. | `Python` `Scikit-Learn` `Streamlit` |
+| **[🩸 Blood Bank System](https://github.com/DeepMehta06/DBMS_PROJECT.git)** | Production-ready inventory system with **FIFO logic**.<br>🔐 **Demo:** Admin (`admin@bloodbank.com`/`admin123`) | `MERN` `JWT` |
+| **[📝 AI-Powered CMS](https://github.com/DeepMehta06/cmsproject.git)** | Full-stack blogging platform. Features secure **NextAuth** and rich-text editing. | `Next.js 15` `Prisma` |
+| **[🎬 Movie Recommender](https://github.com/DeepMehta06/movie_recommendor.git)** | Engine analyzing **4,800+ movies** via **Cosine Similarity** and **NLP**. | `Python` `Scikit-Learn` |
 
 <br/>
 
@@ -77,7 +79,6 @@ I am passionate about bridging the gap between **Software Engineering** and **Da
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=DeepMehta06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&include_all_commits=true" height="180" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepMehta06&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" height="180" />
 
 <br/>
