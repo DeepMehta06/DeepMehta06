@@ -73,17 +73,17 @@ I am passionate about bridging the gap between **Software Engineering** and **Da
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DeepMehta06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&include_all_commits=true&cache_seconds=1800" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=DeepMehta06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF&include_all_commits=true" height="180" />
 
 <img src="https://streak-stats.demolab.com/?user=DeepMehta06&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" height="180" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepMehta06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8&cache_seconds=1800" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepMehta06&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=DeepMehta06&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepMehta06&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="100%" />
 
 <br/>
 
