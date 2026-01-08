@@ -74,10 +74,10 @@ I am passionate about bridging the gap between **Software Engineering** and **Da
 <div align="center">
 
 <a href="https://github.com/DeepMehta06">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeepMehta06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DeepMehta06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/DeepMehta06">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepMehta06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeepMehta06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
 </a>
 
 <br/>
