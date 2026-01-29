@@ -1,15 +1,15 @@
 <div align="center">
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0072ff,00c6ff&height=320&section=header&text=Deep%20Mehta&fontSize=90&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Machine%20Learning%20Enthusiast&descAlign=50&descAlignY=60&descFontSize=25&animation=fadeIn&stroke=ffffff&fontColor=ffffff" width="100%" />
+</div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=1CB5E0&center=true&vCenter=true&width=800&height=100&lines=CS+Undergrad+%40+S.P.I.T.+Mumbai;Building+Scalable+MERN+%26+Next.js+Apps;Bridging+Software+Eng.+%26+Data+Science;Executive+Head+%40+SDC+SPIT;Technical+Head+%40+ENACTUS+SPIT" alt="Typing SVG" />
+  </a>
+</div>
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/216127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="30" /> Hi there, I'm Deep Mehta!</h1>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=CS+Undergrad+%40+S.P.I.T.+Mumbai;Full+Stack+Developer+%7C+MERN+%26+Next.js;ML+Enthusiast+%7C+Open+Source;Executive+Head+%40+SDC+SPIT;Technical+Head+%40+ENACTUS+SPIT" alt="Typing SVG" />
-</a>
-
-<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="600" alt="Awesome Work Environment" />
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="600" alt="Awesome Work Environment" />
 </div>
 
 ---
@@ -92,8 +92,6 @@ I am passionate about bridging the gap between **Software Engineering** and **Da
 
 </div>
 
-
-
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="30" /> Competitive Programming
@@ -144,10 +142,14 @@ I am passionate about bridging the gap between **Software Engineering** and **Da
 <div align="center">
 
 <h3>💭 Quote of the Day</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&bg_color=0D1117&title_color=1CB5E0&text_color=FFFFFF"/>
 
 <h3><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="25" /> *"Talk is cheap. Show me the code."* — Linus Torvalds <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="25" /></h3>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+Collaborate+on+Innovative+Projects!;Happy+Coding!" alt="Footer Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=1CB5E0&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+Collaborate+on+Innovative+Projects!;Happy+Coding!" alt="Footer Animation" />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1CB5E0,000046&height=100&section=footer&animation=fadeIn" width="100%" />
+</div>
 
 </div>
