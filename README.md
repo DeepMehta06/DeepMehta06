@@ -17,7 +17,8 @@ class DeepMehta:
 
 While my Python script above gives you the formal rundown, here's the real deal: I thrive at the intersection of complex algorithms and real-world impact. I'm obsessed with turning research papers into production-ready AI and building architectures that scale flawlessly.
 
-- 💡 **Always learning:** Diving deep into Fintech and ML alongside my CS degree at S.P.I.T. Mumbai.
+- 🚀 **Superpower:** Leading tech communities (Executive Head @ SDC, Tech Head @ Enactus) and shipping winning hacks (2x National Winner).
+- 💡 **Always learning:** Diving deep into Fintech alongside my CS degree at S.P.I.T. Mumbai.
 - 📬 **Ping me:** [deepmehta2006@gmail.com](mailto:deepmehta2006@gmail.com)
 
 <br clear="all" />
@@ -26,7 +27,7 @@ While my Python script above gives you the formal rundown, here's the real deal:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-##  Experience (The TL;DR)
+## Experience (The TLDR)
 
 - 🛰️ **ISRO (IIRS)** | *ML Research Intern* — Building atmospheric data pipelines and analyzing aerosol-isotope relationships.
 - 📈 **SPJIMR** | *Project Intern* — Engineered a high-speed stochastic stock market simulation engine (sub-16ms latency).
