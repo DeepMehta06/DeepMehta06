@@ -1,16 +1,20 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0072ff,00c6ff&height=320&section=header&text=Deep%20Mehta&fontSize=90&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Machine%20Learning%20Enthusiast&descAlign=50&descAlignY=60&descFontSize=25&animation=fadeIn&stroke=ffffff&fontColor=ffffff" width="100%" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0072ff,00c6ff&height=320&section=header&text=Deep%20Mehta&fontSize=90&fontAlign=50&fontAlignY=35&desc=Deep%20Learning%20%7C%20Production%20RAG%20%7C%20Full-Stack%20ML&descAlign=50&descAlignY=60&descFontSize=25&animation=fadeIn&stroke=ffffff&fontColor=ffffff" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=1CB5E0&center=true&vCenter=true&width=800&height=100&lines=CS+Undergrad+%40+S.P.I.T.+Mumbai;Building+Scalable+MERN+%26+Next.js+Apps;Bridging+Software+Eng.+%26+Data+Science;Executive+Head+%40+SDC+SPIT;Technical+Head+%40+ENACTUS+SPIT" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=1CB5E0&center=true&vCenter=true&width=800&height=100&lines=Third-Year+CS+Undergrad+%40+S.P.I.T.+Mumbai;ML+Research+Intern+%40+ISRO+(IIRS);Fintech+Engineering+Intern+%40+SPJIMR;2x+National+Hackathon+Winner" alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="600" alt="Awesome Work Environment" />
+  <a href="./resume.pdf"><img src="https://img.shields.io/badge/📄_View_Resume-1CB5E0?style=for-the-badge&logoColor=white&color=0D1117&labelColor=1CB5E0" /></a>
+  <a href="https://linkedin.com/in/deep-mehta-857a09304"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&labelColor=000000" /></a>
+  <a href="mailto:deepmehta2006@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836&labelColor=000000" /></a>
 </div>
+
+<br />
 
 ---
 
@@ -20,17 +24,18 @@
 <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="Busy Work" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="25" /> **I am a Sophomore Computer Science Undergraduate at [Sardar Patel Institute of Technology (S.P.I.T.), Mumbai].**
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="25" /> **Third-Year Computer Science Undergraduate at [Sardar Patel Institute of Technology (S.P.I.T.), Mumbai]** (GPA: 8.75/10) | **Minor in Fintech** (GPA: 10/10)
 
-I am passionate about bridging the gap between **Software Engineering** and **Data Science**. My expertise lies in building production-ready applications using the **MERN Stack** and **Next.js**, while simultaneously exploring Machine Learning algorithms.
+Specializing in **Deep Learning**, **Production-Grade RAG**, and **Full-Stack ML System Design**, I focus on building robust, scalable intelligence architectures and fintech pipelines.
 
-* <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" /> **Currently working on:** A robust **Next.js 15 CMS** and scaling **MERN applications**.
-* <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25" /> **Leadership:** * **Executive Head** at *Students' Developers Club (SDC), SPIT*
-    * **Technical Head** at *Enactus SPIT*
-* <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="25" /> **Competitive Programming:**
-    * **CodeChef:** 4-Star (Max Rating: 1800+)
-    * **LeetCode:** 200+ Problems Solved
-    * **Coding Ninjas:** 100+ Problems Solved
+* <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" /> **Currently:** **ML Research Intern @ ISRO (IIRS)** & **Project Intern @ SPJIMR**.
+* <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25" /> **Leadership:** 
+  * **Executive Head** at *Students' Developers Club (SDC), SPIT*
+  * **Technical Head** at *Enactus SPIT*
+* <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" width="25" /> **Achievements:** 
+  * 🏆 **1st Place** Domain Winner, Quasar 4.0 National Hackathon
+  * 🏆 **1st Place** IIT Hyderabad Blockchain Hackathon
+  * 🎯 **5x** National Case Study Finalist
 * <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="25" /> **Reach me at:** [deepmehta2006@gmail.com](mailto:deepmehta2006@gmail.com)
 
 <br clear="all" />
@@ -39,6 +44,16 @@ I am passionate about bridging the gap between **Software Engineering** and **Da
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
+## <img src="https://user-images.githubusercontent.com/74038190/216127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="30" /> Experience & Research Highlights
+
+| Role & Organization | Highlights | Tech Stack |
+| :--- | :--- | :--- |
+| **ML Research Intern**<br>@ *ISRO (IIRS)* | **Multi-Stage Atmospheric Data Pipeline**: Integrating 10 heterogeneous HDF4/HDF5/NetCDF datasets, applying PCMCI+, Granger causality, and bootstrap analyses to investigate aerosol-isotope relationships across India. | `Python` `Pandas` `Scikit-learn` `NetCDF` |
+| **Project Intern**<br>@ *SPJIMR* | **Stock Market Simulation Engine**: Built a stochastic 5-factor pricing engine serving 500+ NSE/BSE companies via STOMP WebSocket at sub-16ms latency. | `Spring Boot` `React` `MySQL` `Docker` |
+| **Full-Stack ML Dev**<br>@ *Hackathons* | **KrushiUnnati & Aarogya Sampark**: Architected PWA rural healthcare systems and smart agriculture platforms achieving 94% ML accuracy and 8-minute average triage time reduction. | `PyTorch` `ONNX` `FastAPI` `Next.js` |
+
+<br/>
+
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="30" /> My Tech Arsenal
 
 <div align="center">
@@ -46,22 +61,12 @@ I am passionate about bridging the gap between **Software Engineering** and **Da
 | **Category** | **Technologies** |
 | :---: | :--- |
 | **Languages** | <img src="https://skillicons.dev/icons?i=cpp,python,java,js,ts,sql&theme=dark" /> |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&theme=dark" /> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres,firebase&theme=dark" /> |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=sklearn,pytorch,anaconda&theme=dark" /> |
-| **DevOps & Tools** | <img src="https://skillicons.dev/icons?i=git,github,postman,vercel,figma,vscode&theme=dark" /> |
+| **AI / Machine Learning** | <img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,anaconda&theme=dark" /> |
+| **Backend & Systems** | <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,express&theme=dark" /> |
+| **Frontend Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" /> |
+| **Databases & Tools** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,vercel,postman&theme=dark" /> |
 
 </div>
-
-<br/>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="30" /> Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[🩸 Blood Bank System](https://github.com/DeepMehta06/DBMS_PROJECT.git)** | Production-ready inventory system with **FIFO logic** and automated donor management.<br>🔐 **Demo Credentials:**<br>👮‍♂️ **Admin:** `admin@bloodbank.com` / `admin123`<br>🏥 **Hospital:** `admin@karuna.ac.in` / `karuna` | `MERN` `JWT` `RestAPI` |
-| **[📝 AI-Powered CMS](https://github.com/DeepMehta06/cmsproject.git)** | Full-stack blogging platform built from the ground up. Features secure **NextAuth** authentication, dynamic rich-text editing, and Firebase storage. | `Next.js 15` `Prisma` `MongoDB` |
-| **[🎬 Movie Recommender](https://github.com/DeepMehta06/movie_recommendor.git)** | An intelligent recommendation engine analyzing **4,800+ movies**. Utilizes **Cosine Similarity** and **NLP** (Porter Stemmer) to suggest movies based on plot and cast. | `Python` `Scikit-Learn` `Streamlit` |
 
 <br/>
 
@@ -69,26 +74,26 @@ I am passionate about bridging the gap between **Software Engineering** and **Da
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="30" /> GitHub Stats
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" width="30" /> GitHub Statistics
 
 <div align="center">
 
 <a href="https://github.com/DeepMehta06">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DeepMehta06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-alpha.vercel.app/api?username=DeepMehta06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9"/>
 </a>
 <a href="https://github.com/DeepMehta06">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DeepMehta06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=DeepMehta06&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9"/>
 </a>
 
 <br/>
 
 <a href="https://github.com/DeepMehta06">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=DeepMehta06&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff"/>
+  <img src="https://streak-stats.demolab.com/?user=DeepMehta06&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6b6b&currStreakLabel=00d9ff"/>
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepMehta06&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://ghchart.rshah.org/00d9ff/DeepMehta06" width="100%" alt="DeepMehta06's GitHub Contribution Heatmap" />
 
 </div>
 
@@ -98,7 +103,7 @@ I am passionate about bridging the gap between **Software Engineering** and **Da
 
 <div align="center">
 
-<a href="https://leetcode.com/DeepMehta06/">
+<a href="https://leetcode.com/u/DeepM8906/">
   <img src="https://leetcard.jacoblin.cool/DeepM8906?theme=dark&font=source_code_pro&ext=activity" height="250" width="600"/>
 </a>
 
@@ -113,30 +118,6 @@ I am passionate about bridging the gap between **Software Engineering** and **Da
 
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width="30" /> Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/deep-mehta-857809304">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&labelColor=000000"/>
-</a>
-<a href="mailto:deepmehta2006@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836&labelColor=000000"/>
-</a>
-<a href="https://github.com/DeepMehta06">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&color=0D1117&labelColor=00D9FF"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=DeepMehta06&color=00D9FF&style=for-the-badge&label=Profile+Views" />
-
-</div>
-
 ---
 
 <div align="center">
@@ -147,6 +128,8 @@ I am passionate about bridging the gap between **Software Engineering** and **Da
 <h3><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="25" /> *"Talk is cheap. Show me the code."* — Linus Torvalds <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="25" /></h3>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=1CB5E0&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+Collaborate+on+Innovative+Projects!;Happy+Coding!" alt="Footer Animation" />
+
+<img src="https://komarev.com/ghpvc/?username=DeepMehta06&color=00D9FF&style=flat-square&label=Profile+Views" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1CB5E0,000046&height=100&section=footer&animation=fadeIn" width="100%" />
