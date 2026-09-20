@@ -98,10 +98,8 @@ While my Python script above gives you the formal rundown, here's the real deal:
 
 <div align="center">
 
-<h3>💭 Quote of the Day</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true&bg_color=0D1117&title_color=1CB5E0&text_color=FFFFFF"/>
-
-<h3><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="25" /> *"Talk is cheap. Show me the code."* — Linus Torvalds <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="25" /></h3>
+<h3>😂 Meme of the Century</h3>
+<img src="./computer-science-c1914cc003.jpg" alt="Meme of the Century"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=2000&color=1CB5E0&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!;Let's+Collaborate+on+Innovative+Projects!;Happy+Coding!" alt="Footer Animation" />
 
