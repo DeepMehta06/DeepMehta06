@@ -26,7 +26,7 @@ While my Python script above gives you the formal rundown, here's the real deal:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="30" /> Experience (The TL;DR)
+## <img src="https://user-images.githubusercontent.com/74038190/216127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="30" /> Experience (The TLDR)
 
 - 🛰️ **ISRO (IIRS)** | *ML Research Intern* — Building atmospheric data pipelines and analyzing aerosol-isotope relationships.
 - 📈 **SPJIMR** | *Project Intern* — Engineered a high-speed stochastic stock market simulation engine (sub-16ms latency).
